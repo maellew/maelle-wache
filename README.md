@@ -1,22 +1,20 @@
-
 # Maëlle Waché
 
-Je construis des trucs qui n'existent pas encore : un go-to-market, une catégorie, un outil, une communauté. En ce moment, je suis Founding GTM & Operations Lead chez Raison, une plateforme IA pour la maîtrise de l'IA en entreprise, en phase de création de catégorie.
+I build things that don't exist yet: a go-to-market, a category, a tool, a community. Right now I'm Founding GTM & Operations Lead at Raison, an AI platform for enterprise AI fluency, building a category from scratch.
 
-Ce repo n'est pas un CV. C'est un aperçu de comment je réfléchis quand un problème n'a pas encore de mode d'emploi — trois capacités, chacune avec une preuve courte, plutôt qu'une liste de missions.
+This isn't a resume. It's a look at how I think when a problem doesn't come with instructions yet: three capabilities, each with a short piece of evidence, instead of a list of job titles.
 
-Le reste (mes clients, mes chiffres, les détails de ce que je fais chez Raison) reste privé. Pas par manque de transparence : parce que ce n'est pas à moi de le rendre public.
+Everything else, clients, numbers, day-to-day work at Raison, stays private. Not because I'm hiding anything. It's just not mine to publish.
 
-## Ce que je sais faire
+## What I can do
 
-- **[Construire un go-to-market depuis zéro](capabilities/01-gtm-depuis-zero.md)** — quand la catégorie n'existe pas encore et qu'il n'y a rien à comparer.
-- **[Faire le pont entre l'ambition IA d'une direction et le terrain](capabilities/02-transformation-ia-terrain.md)** — pourquoi un bon outil peut quand même ne jamais être adopté.
-- **[Construire l'outil qui manque plutôt que d'attendre qu'il existe](capabilities/03-construire-loutil-qui-manque.md)** — du raisonnement stratégique à quelque chose qu'on peut faire tourner.
+- **Building a go-to-market from zero**, when the category doesn't exist yet and there's nothing to compare against.
+- **Making AI tools actually get used**, because a good tool and mandatory training don't guarantee adoption.
+- **Building the tool instead of waiting for it**, from a real operational problem to something that runs.
 
-## Comment lire ce repo
+## How this repo is organized
 
-- `capabilities/` — les trois piliers ci-dessus, en détail.
-- `case-studies/` — des preuves courtes, en cas composites et anonymisés (jamais un client réel, jamais un chiffre réel).
-- `field-notes/` — des réflexions plus personnelles, sans lien avec un contexte client.
+- `capabilities/`: the three pillars above, in detail.
+- `case-studies/`: short evidence. Some are real (Le Wagon), some are composite and anonymized (Raison-related, never a real client or number).
 
-Rien ici ne vient directement d'un projet client ou employeur : tout passe par une généricisation ou une reconstruction en cas composite avant publication. Le détail de comment et pourquoi est dans ma tête (et dans mon repo privé), pas ici.
+Anything tied to a client or employer's confidential context goes through generalization or gets rebuilt as a composite case before it's published here.
