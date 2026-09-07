@@ -1,6 +1,3 @@
-⚠️ **À relire par Maëlle avant de rendre ce repo public** : ce README est un premier jet, écrit à partir de ce que Claude sait de son rôle et de son travail. Le ton et les détails doivent être validés (et probablement réécrits en partie) avant que ce soit vraiment sa voix, publiée sous son nom.
-
----
 
 # Maëlle Waché
 
