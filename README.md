@@ -4,7 +4,6 @@ I build things that don't exist yet: a go-to-market, a category, a tool, a commu
 
 This isn't a resume. It's a look at how I think when a problem doesn't come with instructions yet: three capabilities, each with a short piece of evidence, instead of a list of job titles.
 
-Everything else, clients, numbers, day-to-day work at Raison, stays private. Not because I'm hiding anything. It's just not mine to publish.
 
 ## What I can do
 
