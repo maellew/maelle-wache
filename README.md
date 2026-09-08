@@ -15,5 +15,6 @@ This isn't a resume. It's a look at how I think when a problem doesn't come with
 
 - `capabilities/`: the three pillars above, in detail.
 - `case-studies/`: short evidence. Some are real (Le Wagon), some are composite and anonymized (Raison-related, never a real client or number).
+- `field-notes/`: shorter, more personal observations, not tied to a client context.
 
 Anything tied to a client or employer's confidential context goes through generalization or gets rebuilt as a composite case before it's published here.
