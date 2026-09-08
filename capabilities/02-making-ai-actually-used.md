@@ -14,4 +14,5 @@ Rollout and training got everyone technically able to use the tool. Adoption did
 The pattern: adoption tracks how well a use case matches an existing habit, not how much training was delivered.
 
 **Proof**: see [case-studies/02-migrating-a-team-to-a-new-ai-platform.md](../case-studies/02-migrating-a-team-to-a-new-ai-platform.md)
+
 **Proof**: see [case-studies/04-diagnosing-an-adoption-gap.md](../case-studies/04-diagnosing-an-adoption-gap.md)
