@@ -1,9 +1,17 @@
-# Automating invoice compliance checks for a multi-country freelancer network
+# Supporting invoice review with an AI assistant
 
-*Real case, from two years at Le Wagon. No internal names.*
+*Real project at Le Wagon. This summary omits internal data and detailed business rules.*
 
-**Context**: over 60 freelance instructors submitting monthly invoices, across four countries (France, Germany, Spain, Portugal) and three legal statuses, each with different mandatory mentions, VAT rules, and calculation requirements. Checking them by hand took the operations lead half a day every month, with frequent errors and back-and-forth.
+## The problem
 
-**What I did**: mapped every compliance rule with the operations lead first, twelve checks in total across the three statuses and four countries, plus about thirty edge cases. Built a knowledge base with every instructor's profile (status, country, applicable VAT) and every validation rule. Then built an agent that reads the invoice, runs all twelve checks in parallel, and posts a structured report with any flagged issue directly in the team's Slack channel. Tested it on ten real invoices before rolling it out, with a twenty-minute walkthrough instead of a training session.
+Operations teams needed to review invoices against requirements that varied by context. Manual checking was repetitive and needed care; the people responsible still needed to make the final decision.
 
-**Result**: processing time per monthly batch went from about four hours to ten minutes. Error rate dropped by roughly 80%. Zero escalations in the eight months after launch. It became the most-used agent at Le Wagon, and other teams asked to adopt the same approach.
+## My role and approach
+
+I worked from the team's existing workflow to identify checks that could be supported by an assistant. I configured an AI tool to prepare a structured review and flag issues for a person to examine. I accompanied the team through the tool's use and incorporated feedback into the workflow.
+
+## What mattered
+
+The assistant supported a review process; it did not replace human validation or provide autonomous legal or tax advice. The case illustrates how I connect a concrete operational need, a practical AI solution and adoption by the people doing the work.
+
+Detailed performance figures are omitted until their scope and supporting evidence can be confirmed.
