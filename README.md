@@ -2,40 +2,46 @@
 
 **AI transformation · adoption · operations**
 
-I connect strategy, technology and the people who make an organisation run. I like understanding a problem from every angle: what leadership needs to achieve, how teams actually work and what it takes to turn an idea into a useful habit.
+I work at the intersection of strategy, technology and the people who make an organisation run. I like understanding a complex problem from every angle: what leadership needs to achieve, how teams actually work, what technology makes possible and what it takes to turn an idea into a habit.
 
-Today I am **Founding GTM & Operations Lead at Raison**, working with the team on customer discovery, go-to-market and operations for an AI adoption platform. Previously, I worked on transformation diagnosis at Mantu and operational AI adoption at Le Wagon.
+Today I am **Founding GTM & Operations Lead at Raison**, working with the team on customer discovery, go-to-market and operations for an AI adoption platform. I speak with organisations about their challenges and bring what I learn back into our thinking on the offer and product.
 
-## My approach
+Before Raison, I worked on transformation diagnosis and prioritisation at Mantu, and on operational AI adoption at Le Wagon. Across these environments, the thread has stayed the same: connect the big picture to the details that make change work in practice.
 
-I listen to the people doing the work, turn observations into clear priorities and help teams build and adopt practical solutions. I move between strategy and execution: interviews, roadmap, business and technical alignment, prototypes, hackathons, one-to-one coaching and follow-through.
+## How I approach a challenge
 
-## Selected work
+**Start with people and the work.** I conduct interviews, observe workflows and ask what is really getting in the way. A useful solution starts with a problem someone recognises.
 
-Each case includes a summary, the problem, my approach and what the solution unlocked.
+**Make the choices clear.** I bring needs, constraints and perspectives together, prioritise opportunities and turn findings into a roadmap that teams can act on.
 
-### Adoption and learning
+**Build and learn together.** I translate between business and technical teams, prototype practical tools and use feedback to improve them. I am comfortable moving from a leadership conversation to the detail of a workflow.
 
-- [Helping teams adopt AI in their daily work](case-studies/02-migrating-a-team-to-a-new-ai-platform.md) · **Le Wagon** — hackathons, team learning and individual support built around real tasks.
-- [Turning learner feedback into operational insight](case-studies/06-learner-feedback.md) · **Le Wagon** — an assistant helps a team structure feedback for human review.
+**Make change usable.** I have organised hackathons, created moments for teams to share what they learn and coached people individually. I adapt the support to each person's role, confidence and way of working.
 
-### Operations and practical tools
+**Follow through.** Adoption is a practice, not a launch date. I look at how people use a solution, what still needs to change and which measures help the team decide what to do next.
 
-- [Supporting invoice review with an AI assistant](case-studies/03-automating-invoice-compliance-checks.md) · **Le Wagon** — a structured first review with human oversight.
-- [Building tools for insight and everyday coordination](case-studies/09-operational-tools.md) · **Internal work** — tools that help organise feedback, activity and priorities.
+## Work I have done
 
-### Strategy and transformation
+### Raison · Connecting market insight, product and execution
 
-- [Bringing clarity to a cross-functional transformation](case-studies/07-transformation-diagnosis.md) · **Mantu** — interviews, diagnosis and proposed priorities across a complex programme.
+As part of the team building Raison, I conduct customer discovery and help structure GTM and operations. I have also built internal tools to organise feedback, understand outreach activity and support day-to-day decision-making. They are designed around the team's needs and remain internal.
 
-### Customer discovery and go-to-market
+### Mantu · Turning a broad transformation into priorities
 
-- [Bringing field insight back into the business](case-studies/08-customer-discovery.md) · **Raison** — connecting customer discovery with the team's offer and product thinking.
+I conducted stakeholder interviews, examined needs and dependencies, and contributed a transformation diagnosis and prioritised roadmap recommendations. The work connected strategic direction with the practical conditions needed to move initiatives forward.
 
-[Browse all cases by theme, including exercises →](case-studies/05-selected-practical-work.md)
+### Le Wagon · Helping teams use AI in real workflows
+
+I worked with operational teams to identify useful AI applications, designed assistants and automations, ran practical workshops and hackathons, and supported colleagues one-to-one.
+
+## What this looks like in practice
+
+Explore the challenges I have worked on, the approaches I took and the solutions they led to — organised by theme, with a separate page for each case.
+
+**[Explore my case studies and use cases →](case-studies/05-selected-practical-work.md)**
 
 ## Tools and curiosity
 
-I work with Claude, ChatGPT, Dust, Make, Zapier, Notion and APIs when they fit the problem and the team. I enjoy learning by building, sharing what works and making complex things easier to navigate.
+I work with tools including Claude, ChatGPT, Dust, Make, Zapier, Notion and APIs, choosing them according to the problem and the people who will use them. I enjoy learning by building, sharing what works and making complex things easier to navigate.
 
 [LinkedIn](https://www.linkedin.com/in/maellewache/) · [Email](mailto:maelle.wache@edu.escp.eu)
