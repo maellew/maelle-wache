@@ -36,7 +36,7 @@ I worked with operational teams to identify useful AI applications, designed ass
 
 ## What this looks like in practice
 
-Explore the challenges I have worked on, the approaches I took and the solutions they led to — organised by theme, with a separate page for each case.
+Explore the challenges I have worked on, the approaches I took and the solutions they led to, organised by theme, with a separate page for each case.
 
 **[Explore my case studies and use cases →](case-studies/05-selected-practical-work.md)**
 
