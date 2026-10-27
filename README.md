@@ -1,4 +1,6 @@
-# Maëlle Waché
+
+
+Explore six examples of my work: [Selected practical cases](case-studies/05-selected-practical-work.md).# Maëlle Waché
 
 **AI transformation · adoption · operations**
 
