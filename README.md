@@ -2,42 +2,55 @@
 
 **AI transformation · adoption · operations**
 
-I work at **Raison as Founding GTM & Operations Lead**, alongside the team building an AI adoption platform. My role combines go-to-market, customer discovery and operations: listening to organisations, understanding the challenges they face when introducing AI, and translating field insight into useful priorities for the business and product.
+I work at the intersection of strategy, technology and the people who make an organisation run. I like understanding a complex problem from every angle: what leadership needs to achieve, how teams actually work, what technology makes possible and what it takes to turn an idea into a habit.
 
-My earlier work includes operational AI enablement at Le Wagon and a transformation diagnosis and prioritisation assignment at Mantu. This portfolio shares my approach and selected examples from across those experiences. It is a personal record of my work; it does not describe an independent offer or disclose a client's confidential information.
+Today I am **Founding GTM & Operations Lead at Raison**, working with the team on customer discovery, go-to-market and operations for an AI adoption platform. I speak with organisations about their challenges and bring what I learn back into our thinking on the offer and product.
 
-## How I work
+Before Raison, I worked on transformation diagnosis and prioritisation at Mantu, and on operational AI adoption at Le Wagon. Across these environments, the thread has stayed the same: connect the big picture to the details that make change work in practice.
 
-I connect strategy, people and execution. I listen to the people doing the work, identify what gets in their way, make trade-offs explicit, test practical solutions and support their adoption.
+## How I approach a challenge
 
-1. **Understand:** stakeholder interviews, workflow observation and mapping needs and constraints.
-2. **Prioritise:** compare value, feasibility, ownership and dependencies; turn findings into a focused roadmap.
-3. **Build and test:** work with operational and technical teams on practical solutions and feedback.
-4. **Enable:** run workshops and hackathons, create team rituals and coach people one-to-one on their actual tasks.
-5. **Measure and improve:** distinguish access, use and impact; learn from users and adapt.
+**Start with people and the work.** I conduct interviews, observe workflows and ask what is really getting in the way. A useful solution starts with a problem someone recognises.
 
-## What this can look like
+**Make the choices clear.** I bring needs, constraints and perspectives together, prioritise opportunities and turn them into a roadmap that teams can act on.
 
-The examples in this table are **illustrative applications** of my approach, not claims about specific clients.
+**Build and learn together.** I translate between business and technical teams, prototype practical tools and use feedback to improve them. I am comfortable moving from a leadership conversation to the detail of a workflow.
 
-| Team or challenge | Approach | Useful output |
-| --- | --- | --- |
-| Transformation: many AI ideas, unclear priorities | Interview teams, map dependencies and compare value with feasibility | Prioritised use cases and a staged roadmap |
-| Operations: repetitive reviews and handoffs | Map the process, test an assistant and retain human judgment | A simpler workflow with a review step |
-| Learning and people: training does not reach daily work | Start from real tasks, organise hands-on sessions and support people individually | Practical use cases and routines for peer learning |
-| Product and technology: needs are hard to translate | Bring business and technical teams together around concrete problems and feedback | Shared brief, clear owners and a testable first step |
-| Customer-facing teams: feedback is scattered | Organise observations by theme and preserve source context | A clearer basis for product and communication decisions |
+**Make change usable.** I have organised hackathons, created moments for teams to share what they learn and coached people individually. I adapt the support to each person's role, confidence and way of working.
 
-## Selected work
+**Follow through.** Adoption is a practice, not a launch date. I look at how people use a solution, what still needs to change and which measures help the team decide what to do next.
 
-- **Mantu:** stakeholder interviews and a transformation diagnosis, followed by prioritisation and roadmap recommendations. The scope described here is diagnosis and planning.
-- **Le Wagon:** operational AI enablement, workshops, hackathons and individual support. I designed assistants around real workflows, including [invoice review with human oversight](case-studies/03-automating-invoice-compliance-checks.md).
-- **Raison:** as part of my current role, customer discovery and GTM operations, connecting what organisations share with colleagues working on the offer and product. I also developed internal tools supporting analysis and day-to-day work; their code, data and configurations remain private.
+## Work I have done
 
-## Learning and practice
+### Raison · Connecting market insight, product and execution
 
-I use tools such as Claude, ChatGPT, Dust, Make, Zapier, Notion and APIs when they are appropriate for the problem. I value simple systems, clear ownership, and the ability for teams to understand and maintain what they use.
+As part of the team building Raison, I conduct customer discovery and help structure GTM and operations. I have also built internal tools to organise feedback, understand outreach activity and support day-to-day decision-making. They are designed around the team's needs and remain internal.
 
-[Case studies](case-studies/) · [Capabilities](capabilities/) · [Field notes](field-notes/)
+### Mantu · Turning a broad transformation into priorities
 
-Some cases are real, some composite or fictional, and are labelled accordingly. [LinkedIn](https://www.linkedin.com/in/maellewache/) · [Email](mailto:maelle.wache@edu.escp.eu)
+I conducted stakeholder interviews, examined needs and dependencies, and contributed a transformation diagnosis and prioritised roadmap recommendations. The work connected strategic direction with the practical conditions needed to move initiatives forward.
+
+### Le Wagon · Helping teams use AI in real workflows
+
+I worked with operational teams to identify useful AI applications, designed assistants and automations, ran practical workshops and hackathons, and supported colleagues one-to-one. One example is an [assistant for invoice review](case-studies/03-automating-invoice-compliance-checks.md), designed to support human judgment.
+
+## From a challenge to a first step
+
+The following are **illustrative applications** of my approach, not claims about specific clients.
+
+| Situation | First step |
+| --- | --- |
+| Many ideas, no clear AI priorities | Listen across teams; compare value, feasibility and ownership; define a focused roadmap. |
+| Repetitive work consumes the team’s time | Map the workflow with the people doing it and test a simpler process with appropriate human review. |
+| Tools are available but adoption is uneven | Understand daily routines, run hands-on sessions and adapt support to each person's needs. |
+| Business and technical teams are misaligned | Translate needs and constraints into a shared brief and a testable first step. |
+| Customer feedback is scattered | Structure observations by theme and retain source context so the team can act on them. |
+
+## Tools and curiosity
+
+I work with tools including Claude, ChatGPT, Dust, Make, Zapier, Notion and APIs, choosing them according to the problem and the people who will use them. I enjoy learning by building, sharing what works and making complex things easier to navigate.
+
+[Case studies](case-studies/) · [Capabilities](capabilities/) · [Field notes](field-notes/)  
+[LinkedIn](https://www.linkedin.com/in/maellewache/) · [Email](mailto:maelle.wache@edu.escp.eu)
+
+Real, composite and fictional cases are labelled. Confidential company and client information is kept private.
