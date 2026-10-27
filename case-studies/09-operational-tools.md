@@ -1,17 +1,19 @@
 # Building tools for insight and everyday coordination
 
-*Real work · Internal tools · Operations*
+**Internal work · AI and operations · Real work**
 
-## Context
+**At a glance** — I built internal tools to help organise qualitative feedback, understand outreach activity and make daily priorities easier to follow.
 
-Feedback, outreach information and priorities can be scattered across tools, making it harder to spot patterns and decide what needs attention.
+## The problem
 
-## My contribution
+When feedback, activity and priorities live across several tools, it takes time to assemble a coherent picture. Useful information can be hard to find, compare or bring into a decision.
 
-I built internal tools with AI and connected technologies to help organise qualitative feedback, review outreach activity and support daily work. I start with a concrete workflow, build a first version and improve it with user feedback.
+## How I approached it
 
-## What it demonstrates
+I began with the operational question and the workflow of the people who would use the tool. I built first versions using AI and connected technologies, then used feedback to refine the views and information presented. The objective was to make the next decision or action clearer.
 
-Combining operational understanding and hands-on building. The tools' code, configurations, source data and organisation-specific processes remain private. Availability or measured outcomes should not be inferred from this summary.
+## The solution and what it unlocked
 
-[All cases](05-selected-practical-work.md) · [Portfolio](../README.md)
+The resulting internal tools provide more structured ways to explore feedback and activity and support day-to-day coordination. This account does not assert measured savings or adoption rates. The tools' code, configuration, data and organisation-specific processes remain private.
+
+[← All case studies](05-selected-practical-work.md) · [Portfolio](../README.md)
