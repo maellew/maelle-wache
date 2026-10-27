@@ -1,21 +1,19 @@
 # Turning learner feedback into operational insight
 
-*Real work · Le Wagon · Operations and AI*
+**Le Wagon · AI and operations · Real work**
 
-## Context
+**At a glance** — I worked on an assistant that helps an operations team turn learner survey responses into a structured summary and identify points for human follow-up.
 
-Programme teams receive qualitative feedback throughout a learning journey. Reviewing responses and identifying situations needing attention is important but time-consuming.
+## The problem
 
-## My contribution
+Teams needed to read qualitative feedback during a learning programme, identify recurring themes and notice situations that might need attention. Manually reviewing and organising the responses was repetitive and could delay a clear overview.
 
-I worked on an AI assistant that structures survey feedback and highlights points for the team to review. I started from the existing workflow, configured the assistant around team needs and supported its use.
+## How I approached it
 
-## Approach
+I started from the team's existing feedback process and the decisions people needed to make. I configured an AI assistant to prepare a summary, group observations and flag points for review, then supported the team in using it and refining the output.
 
-Survey responses → proposed themes and follow-up points → human review → appropriate next step. People review any suggested communication and decide what action to take.
+## The solution and what it unlocked
 
-## What it demonstrates
+Survey responses could be turned into a structured first draft, giving the team a clearer starting point for follow-up. Team members retained responsibility for checking the context, deciding what action to take and reviewing any communication. Time savings are not stated here because their scope needs verification.
 
-Using AI to make qualitative feedback easier to act on while retaining context and human judgment. Time savings are not stated here because their scope needs verification.
-
-[All cases](05-selected-practical-work.md) · [Portfolio](../README.md)
+[← All case studies](05-selected-practical-work.md) · [Portfolio](../README.md)
