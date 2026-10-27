@@ -2,7 +2,7 @@
 
 **AI transformation · adoption · operations**
 
-I work at **Raison as Founding GTM & Operations Lead**, alongside the team building an AI adoption platform. My role combines go-to-market, customer discovery and operations: listening to organisations, understanding the challenges they face when introducing AI, and translating field insight into useful priorities for the business and product. The work is collaborative, and client information and internal strategy remain confidential.
+I work at **Raison as Founding GTM & Operations Lead**, alongside the team building an AI adoption platform. My role combines go-to-market, customer discovery and operations: listening to organisations, understanding the challenges they face when introducing AI, and translating field insight into useful priorities for the business and product.
 
 My earlier work includes operational AI enablement at Le Wagon and a transformation diagnosis and prioritisation assignment at Mantu. This portfolio shares my approach and selected examples from across those experiences. It is a personal record of my work; it does not describe an independent offer or disclose a client's confidential information.
 
