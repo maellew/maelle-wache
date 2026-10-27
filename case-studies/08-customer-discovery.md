@@ -1,17 +1,19 @@
 # Bringing field insight back into the business
 
-*Real work · Raison · Customer discovery and go-to-market*
+**Raison · Customer discovery and go-to-market · Real work**
 
-## Context
+**At a glance** — In my current role, I listen to organisations' challenges around AI adoption and bring recurring needs into the team's conversations about go-to-market, the offer and product.
 
-Organisations can have access to AI tools yet still face challenges integrating useful practices into everyday work. Understanding those challenges requires listening across roles and organisations.
+## The problem
 
-## My contribution
+Organisations may have AI tools available while still finding it difficult to integrate them into daily work. Understanding what blocks adoption requires looking beyond the tool and listening to people with different responsibilities.
 
-At Raison, where I work as Founding GTM & Operations Lead, I conduct customer discovery and contribute to go-to-market and operations alongside the team. I help structure recurring needs and bring field feedback into conversations about positioning, the offer and product priorities.
+## How I approached it
 
-## What it demonstrates
+As Founding GTM & Operations Lead at Raison, I conduct customer discovery and contribute to go-to-market and operations alongside the team. I listen to how organisations describe their situations, identify recurring themes and help connect field feedback with colleagues working on positioning, the offer and product.
 
-Connecting conversations in the field with the decisions made by a team building a product. This is work in my current employed role; client identities, commercial details and internal materials are not shared here.
+## The solution and what it unlocked
 
-[All cases](05-selected-practical-work.md) · [Portfolio](../README.md)
+The work creates a way to bring customer perspectives into the team's decisions and clarify the problems the offer should address. It is an ongoing contribution within my current employed role; this account does not claim a specific commercial outcome. Client identities, commercial details and internal materials remain private.
+
+[← All case studies](05-selected-practical-work.md) · [Portfolio](../README.md)
