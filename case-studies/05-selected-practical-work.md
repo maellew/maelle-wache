@@ -1,25 +1,44 @@
-# Selected work, organised by theme
+# Case studies and practical work
 
-Explore practical examples of my work across AI adoption, transformation and operations. Each page states whether it describes real work, a composite scenario or a fictional exercise. Detailed employer and client information stays private.
+A selection of my work across AI adoption, operations and transformation. Each case starts with a short summary, then explains the problem, my approach and what the solution unlocked.
 
-## AI adoption and learning
+## Adoption and learning
 
-- [Helping a team adopt a new AI platform](02-migrating-a-team-to-a-new-ai-platform.md) · **Real work, Le Wagon** — practical use cases, shared learning and support through change.
-- [Turning learner feedback into operational insight](06-learner-feedback.md) · **Real work, Le Wagon** — an assistant that helps a team review and act on qualitative feedback.
-- [Diagnosing an adoption gap](04-diagnosing-an-adoption-gap.md) · **Fictional assessment exercise** — a proposed plan built around behaviour, not just access.
+### Helping teams adopt AI in their daily work
+**Le Wagon · Real work.** Starting from colleagues' tasks, I combined hackathons, shared learning and one-to-one coaching to make AI easier to use in everyday workflows.  
+[Read the case →](02-migrating-a-team-to-a-new-ai-platform.md)
 
-## Operations and practical tools
+### Turning learner feedback into operational insight
+**Le Wagon · Real work.** I worked on an assistant that structures qualitative survey feedback and helps the team identify points for human follow-up.  
+[Read the case →](06-learner-feedback.md)
 
-- [Supporting invoice review with an AI assistant](03-automating-invoice-compliance-checks.md) · **Real work, Le Wagon** — a workflow with human oversight.
-- [Building tools for insight and everyday coordination](09-operational-tools.md) · **Real work, internal tools** — organising feedback, outreach activity and daily work.
+## Operations and tools
+
+### Supporting invoice review with an AI assistant
+**Le Wagon · Real work.** I designed an assistant that prepares checks and flags possible issues while a person remains responsible for the review.  
+[Read the case →](03-automating-invoice-compliance-checks.md)
+
+### Building tools for insight and everyday coordination
+**Internal work · Real work.** I built tools to organise feedback and activity and make it easier to follow priorities and decisions.  
+[Read the case →](09-operational-tools.md)
 
 ## Strategy and transformation
 
-- [Bringing clarity to a cross-functional transformation](07-transformation-diagnosis.md) · **Real work, Mantu** — interviews, diagnosis and prioritisation recommendations.
-- [Prioritising the first AI use case](01-prioritizing-the-first-use-case.md) · **Composite scenario** — choosing a feasible first test with clear ownership.
+### Bringing clarity to a cross-functional transformation
+**Mantu · Real work.** I brought stakeholder perspectives together in a diagnosis and proposed priorities, helping make dependencies and decisions easier to discuss.  
+[Read the case →](07-transformation-diagnosis.md)
 
 ## Customer discovery and go-to-market
 
-- [Bringing field insight back into the business](08-customer-discovery.md) · **Real work, Raison** — customer discovery and feedback into the team's offer and product thinking.
+### Bringing field insight back into the business
+**Raison · Current role.** I conduct discovery and help bring recurring needs into the team's discussions about positioning, offer and product priorities.  
+[Read the case →](08-customer-discovery.md)
 
-[Back to the portfolio](../README.md)
+## Exercises and composite scenarios
+
+These examples illustrate reasoning; they are not presented as client results.
+
+- [Diagnosing an AI adoption gap](04-diagnosing-an-adoption-gap.md) · Fictional assessment exercise.
+- [Prioritising a first AI use case](01-prioritizing-the-first-use-case.md) · Composite scenario.
+
+[← Back to the portfolio](../README.md)
