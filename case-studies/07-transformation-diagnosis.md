@@ -1,21 +1,19 @@
 # Bringing clarity to a cross-functional transformation
 
-*Real work · Mantu · Transformation and prioritisation*
+**Mantu · Transformation diagnosis and prioritisation · Real work**
 
-## Context
+**At a glance** — I brought stakeholder perspectives together to make a complex transformation easier to understand and prioritise. The output was a diagnosis and proposed roadmap; implementation and measured impact are not established here.
 
-A transformation programme can bring together many initiatives, stakeholders and dependencies. Before deciding what to do first, the team needs a shared view of the situation.
+## The problem
 
-## My contribution
+A strategic transformation brought together multiple workstreams, stakeholders and initiatives. Before choosing what to do first, the team needed a shared picture of the needs, dependencies, points of friction and decisions to make.
 
-I interviewed stakeholders, examined needs and friction, and contributed to a transformation diagnosis and prioritisation recommendations. I brought different perspectives together to make dependencies and decisions easier to discuss.
+## How I approached it
 
-## Output and scope
+I interviewed people across leadership and operational teams, reviewed the available context and organised what I heard into recurring themes. I looked at where initiatives depended on one another, where ownership or decisions needed clarification and where further investigation could be useful. I translated the findings into a structured diagnosis and prioritisation recommendations.
 
-A structured diagnosis and proposed priorities and next steps. The roadmap and actions were recommendations; this case does not claim that every proposal was deployed or that it delivered a measured impact.
+## The solution and what it unlocked
 
-## What it demonstrates
+The deliverables were a clearer view of the transformation, its friction points and dependencies, together with proposed priorities and next steps. This gave the team a basis for discussing sequencing and trade-offs between initiatives. The roadmap was a proposal, not evidence that every action was implemented or produced measured results.
 
-Connecting strategic direction with operational reality and making a complex portfolio easier to navigate.
-
-[All cases](05-selected-practical-work.md) · [Portfolio](../README.md)
+[← All case studies](05-selected-practical-work.md) · [Portfolio](../README.md)
